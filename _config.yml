@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Haiqin LIU"
   #pronouns         : "she/her"  
-  bio              : "Economics Ph.D. Candidate"
+  bio              : "Ph.D. Candidate" #Economics 
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
@@ -220,6 +220,9 @@ collections:
   research: #publications
     output: true
     permalink: /:collection/:path/
+  programs: #programs
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -270,6 +273,14 @@ defaults:
   - scope:
       path: ""
       type: research # 
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: programs 
     values:
       layout: single
       author_profile: true

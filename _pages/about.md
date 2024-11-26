@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Whenever you sneeze, you're calling my name — 'Hǎi Qín!' <=..=>
 
-My research focus on Monetary Policy, International Macroeconomics and Financial Economics. 
+**About Me**
+Whenever you sneeze, you're calling my name — 'Hǎi Qín!' <!-- <=..=> -->
+
+
+I'm a PhD candidate at [Fudan University](https://www.fudan.edu.cn/en/). My research focus on Monetary Policy, International Macroeconomics and Financial Economics. 
 
 <!-- Find my beloved advisor: [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html), coauthors: [John Rogers](https://www.johnrogerseconomist.net/), [Jongrim Ha](https://www.worldbank.org/en/about/people/j/jongrim-ha), [Shihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu), -->
 

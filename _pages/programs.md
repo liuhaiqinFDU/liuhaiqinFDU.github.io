@@ -8,8 +8,13 @@ title: ""
 
 # <center><font color="MidnightBlue">Programs</font></center>
 
+## <font color="MidnightBlue">Interns</font>
+
 **2025 Jan-Apr. Capital Controls and Financial Spillovers of U.S. Monetary Policy** (*working paper to be posted*)
 *[Hong Kong Institute for Monetary and Financial Research (HKIMR) Doctoral Internship Program](https://www.hkma.gov.hk/eng/data-publications-and-research/research/hong-kong-institute-for-monetary-and-financial-research/)*.
+
+**2024 Sep-2025 Jun. Monetary Policy Uncertainty in Emerging Markets and Developing Economies** [Report](https://openknowledge.worldbank.org/server/api/core/bitstreams/9bf0f0aa-bd08-4c91-b665-caee561fb5d3/content)
+*Short-Term Consultant at the World Bank Group, EAP Chief Economist Unit. Instructor: [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj)*.
 
 
 

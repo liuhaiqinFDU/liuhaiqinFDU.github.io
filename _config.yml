@@ -21,10 +21,10 @@ repository               : "liuhaiqinFDU/liuhaiqinFDU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Haiqin LIU"
-  pronouns         : "she/her"  
-  bio              : "Ph.D. Candidate in Economics"
+  #pronouns         : "she/her"  
+  bio              : "Economics Ph.D. Candidate"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL

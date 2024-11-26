@@ -27,10 +27,10 @@ title: ""
 
 **Fall 2024. Macroeconomics and Chinese Economy**. TA for [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html).
 
-**Summer 2024. Multiparty Computing, Distributed Ledgers and Financial Services Theory and Practice** ([FISS](https://iss.fudan.edu.cn/)) TA for [Julian Williams](https://www.durham.ac.uk/business/our-people/julian-williams/).
+**Summer 2024. Multiparty Computing, Distributed Ledgers and Financial Services Theory and Practice** ([FISS](https://iss.fudan.edu.cn/)). TA for [Julian Williams](https://www.durham.ac.uk/business/our-people/julian-williams/).
 
-**Spring 2023. Search and Matching in Macro and Finance** ([Jiang Xuemo Lecture](https://econ.fudan.edu.cn/info/1759/21137.htm)) TA for Shengxing Zhang.
+**Spring 2023. Search and Matching in Macro and Finance** ([Jiang Xuemo Lecture](https://econ.fudan.edu.cn/info/1759/21137.htm)). TA for Shengxing Zhang.
 
-**Spring 2021. Mathematical Analysis II** ([UIPE](https://econ.fudan.edu.cn/uipe/)) TA for Yuwei Zhao.
+**Spring 2021. Mathematical Analysis II** ([UIPE](https://econ.fudan.edu.cn/uipe/)). TA for Yuwei Zhao.
 
 

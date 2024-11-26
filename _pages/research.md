@@ -22,7 +22,7 @@ title: ""
 - - -
 
 **3. Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu)) [[Slides](https://www.dropbox.com/scl/fi/zkt3vkbojudzrnieeu58e/global_and_local_uncertainty_IU.pdf?rlkey=avpb7q9muhe31xaxfxv9omz8b\&dl=0)]
-*Presented at MEG 2023\*, NASM 2024\*,  IAAE 2024*
+*Presented at MEG 2023\*, NASMES 2024\*,  IAAE 2024*
 
 <!--**4. Capital Controls and Financial Spillovers of U.S. Monetary Policy** (with [John Rogers](https://www.johnrogerseconomist.net/))-->
 
@@ -32,7 +32,7 @@ title: ""
 
 ## <font color="MidnightBlue">Work in progress </font>
 
-**1. Structural Monetary Policy, Quantitative Easing, and Collateral Constraints: A Tale of Two Central Banks**
+**1. Structural Monetary Policy, Quantitative Easing, and Collateral Constraints: A Tale of Two Central Banks** (*draft upon request*) 
 
 My research motivation is to develop a theory that captures the interaction and spillover effects of monetary policies between U.S. (Home) and China (Foreign). The model builds on [Geanakoplos & Wang (2020)](https://www.aeaweb.org/articles?id=10.1257/mac.20180484) (GW) and extends it to include the Foreign central bank's risky asset purchases -- in reality,  the PBC's Structural Monetary Policy (SMP). To make the PBC's asset purchase meaningful, I deviate from GW's original No-borrowing environment to assume Foreign as a Leverage Economy. Additionally, to generate persistent ``collateral gap'' in the free-trade equilibrium, one needs to assume more sophisticated financial system in the U.S. To make progress, I adopt the Tranching Economy setting of [Fostel, Geanakoplos & Phelan (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2921456). The nonlinear equation system is established and interaction effects between the Fed's QE and PBC's SMP are investigated.
 

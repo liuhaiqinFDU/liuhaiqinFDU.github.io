@@ -9,9 +9,9 @@ main:
   - title: "Research"
     url: /research/ 
 
-  - title: "Internship"
-    url: /internship/ 
-    
+  - title: "Programs"
+    url: /program/ 
+
   #- title: "Publications"
   #  url: /publications/
 

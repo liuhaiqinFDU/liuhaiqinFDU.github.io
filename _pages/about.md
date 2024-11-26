@@ -1,19 +1,27 @@
 ---
 permalink: /
-title: ""
+title: "Whenever you sneeze, you're calling my name — 'Hǎi Qín!'"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+ <!-- <=..=> -->
 
 **About Me**
 
-Whenever you sneeze, you're calling my name — 'Hǎi Qín!' <!-- <=..=> -->
+
+I'm a PhD candidate in the Elite Ph.D. Program of Economics at [Fudan University](https://www.fudan.edu.cn/en/). I received my Bachelor's degree in [Mathematical Economics](https://econ.fudan.edu.cn/info/1042/21448.htm) from Fudan, with a second major in Data Science.
+
+My sister [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
 
 
-I'm a PhD candidate at [Fudan University](https://www.fudan.edu.cn/en/). My research focus on Monetary Policy, International Macroeconomics and Financial Economics. 
+**Research Focus**
+
+My research focus on Monetary Policy, International Macroeconomics and Financial Economics.
+
+
 
 <!-- Find my beloved advisor: [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html), coauthors: [John Rogers](https://www.johnrogerseconomist.net/), [Jongrim Ha](https://www.worldbank.org/en/about/people/j/jongrim-ha), [Shihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu), -->
 

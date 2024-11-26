@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Whenever you sneeze, you're calling my name — 'Hǎi Qín!'"
+title: "Whenever you sneeze, you're calling my name"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- <!-- <=..=> -->
+## —— 'Hǎi Qín!' <!-- <=..=> -->
 
 **About Me**
 

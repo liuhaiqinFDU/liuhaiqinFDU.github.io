@@ -1,32 +1,103 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@400;700&display=swap" rel="stylesheet">
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html>
 
-  <body>
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/github-light.css' | relative_url }}">
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+    <style>
+        button.accordion2 {
+            font: 14px/1.5 "Martian Mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            cursor: pointer;
+            padding: 0px;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 100%;
+            transition: 0.4s;
+            background-color: #f8f8f8;
+        }
+    
+        button.accordion {
+            font: 14px/1.5 "Martian Mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            cursor: pointer;
+            padding: 0px;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 100%;
+            transition: 0.4s;
+            background-color: #f8f8f8;
+        }
+    
+        button.accordion.active,
+        button.accordion:hover {
+            background-color: #f8f8f8;
+        }
+    
+        button.accordion:after {
+            content: '[+]';
+            font-size: 90%;
+            color: #777;
+            float: left;
+            margin-left: 1px;
+            margin-right: 3px;
+        }
+    
+        button.accordion2:after {
+            content: '[#]';
+            font-size: 90%;
+            color: #777;
+            float: left;
+            margin-left: 1px;
+            margin-right: 3px;
+        }
+    
+        button.accordion.active:after {
+            content: "[\2212]";
+        }
+    
+        div.panel {
+            padding: 0 20px;
+            margin-top: 5px;
+            display: none;
+            background-color: white;
+            font-size: 100%;
+        }
+    
+        div.panel.show {
+            display: block !important;
+        }
+    </style>
+    <link rel="alternate" type="application/atom+xml" title="{{ site.description }}" href="/feed.xml">
+</head>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<body>
+    <div class="wrapper">
+        <header>
+        <div class="sidenav">
+            <a href="/">Home</a>
+            <!-- <a href="/papers/cv.pdf">CV</a>
+            <a href="/papers.html">Papers</a>
+            <a href="/blog.html">Blog (A Causal Affair)</a>
+            <a href="https://github.com/paulgp/applied-methods-phd">Applied Methods PhD Course</a></p> -->
+            <a href="/">Research</a>
+            <a href="/">Programs</a>
+            <img src="{{ '/assets/img/profile.png' | relative_url }}" width=250 height=250> 
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+            </div>
+        </header>
+        <section>
+            <h1> {{ page.title }} </h1>
+            {{ content }}
+        </section>
     </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-    {% include scripts.html %}
+</body>
 
-  </body>
 </html>

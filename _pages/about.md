@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## —— 'Hǎi Qín!' <!-- <=..=> -->
+# —— 'Hǎi Qín!' <!-- <=..=> -->
+
 
 **About Me**
 

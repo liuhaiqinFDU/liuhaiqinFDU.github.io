@@ -11,20 +11,17 @@ title: ""
 ## <font color="MidnightBlue"> Working papers </font>
 
 **1. Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy** (with [Jongrim Ha](https://www.worldbank.org/en/about/people/j/jongrim-ha), [John Rogers](https://www.johnrogerseconomist.net/)) [[Paper](https://www.dropbox.com/scl/fi/cjlq7uobbmm6if4cdssfk/KC-paper-BdF_JIMF-submission-Rogers.pdf?rlkey=4glwgevivv5477zsoca00bw5m&e=1&st=kixepg95&dl=0)]
-
 *Scheduled to present: [Global Shocks, Macroeconomic Spillovers and Geopolitical Risks: Policy Challenges](https://cepr.org/events/global-shocks-macroeconomic-spillovers-and-geopolitical-risks-policy-challenges) (2025 Apr 7-8, CEPR, JIE)\**
 
 - - -
 
 **2. Heterogeneous Financial Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html))
-
 *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml)* <!-- Under review at Economic Research Journal -->
 
 
 - - -
 
 **3. Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu)) [[Slides](https://www.dropbox.com/scl/fi/zkt3vkbojudzrnieeu58e/global_and_local_uncertainty_IU.pdf?rlkey=avpb7q9muhe31xaxfxv9omz8b\&dl=0)]
-
 *Presented at MEG 2023\*, NASM 2024\*,  IAAE 2024*
 
 <!--**4. Capital Controls and Financial Spillovers of U.S. Monetary Policy** (with [John Rogers](https://www.johnrogerseconomist.net/))-->

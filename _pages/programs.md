@@ -8,7 +8,7 @@ title: ""
 
 # <center><font color="MidnightBlue">Programs</font></center>
 
-## <font color="MidnightBlue">Interns</font>
+## <font color="MidnightBlue">Internship</font>
 
 **2025 Jan-Apr. Capital Controls and Financial Spillovers of U.S. Monetary Policy** (*working paper to be posted*)
 *[Hong Kong Institute for Monetary and Financial Research (HKIMR) Doctoral Internship Program](https://www.hkma.gov.hk/eng/data-publications-and-research/research/hong-kong-institute-for-monetary-and-financial-research/)*.
@@ -22,7 +22,7 @@ title: ""
 
 <p></p>
 
-## <font color="MidnightBlue">Mini-courses & TA</font>
+## <font color="MidnightBlue">Mini-course & TA</font>
 
 **Fall 2022. Mini-course on Application of Econometric Software and Introduction to MATLAB** [[Syllabus](https://mp.weixin.qq.com/s/TnQ_byG4DxLn13yXswG8Cw)].
 

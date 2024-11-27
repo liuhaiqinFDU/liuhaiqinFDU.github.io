@@ -10,8 +10,10 @@ title: ""
 
 ## <font color="MidnightBlue"> Working papers </font>
 
-<p style="text-align: justify;">**1. Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy** (with [Jongrim Ha](https://www.worldbank.org/en/about/people/j/jongrim-ha), [John Rogers](https://www.johnrogerseconomist.net/)) [[Paper](https://www.dropbox.com/scl/fi/cjlq7uobbmm6if4cdssfk/KC-paper-BdF_JIMF-submission-Rogers.pdf?rlkey=4glwgevivv5477zsoca00bw5m&e=1&st=kixepg95&dl=0)]
-*Scheduled to present: [Global Shocks, Macroeconomic Spillovers and Geopolitical Risks: Policy Challenges](https://cepr.org/events/global-shocks-macroeconomic-spillovers-and-geopolitical-risks-policy-challenges) (2025 Apr 7-8, CEPR, JIE)\**</p>
+<p style="text-align: justify;">
+**1. Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy** (with [Jongrim Ha](https://www.worldbank.org/en/about/people/j/jongrim-ha), [John Rogers](https://www.johnrogerseconomist.net/)) [[Paper](https://www.dropbox.com/scl/fi/cjlq7uobbmm6if4cdssfk/KC-paper-BdF_JIMF-submission-Rogers.pdf?rlkey=4glwgevivv5477zsoca00bw5m&e=1&st=kixepg95&dl=0)]
+*Scheduled to present: [Global Shocks, Macroeconomic Spillovers and Geopolitical Risks: Policy Challenges](https://cepr.org/events/global-shocks-macroeconomic-spillovers-and-geopolitical-risks-policy-challenges) (2025 Apr 7-8, CEPR, JIE)\**
+</p>
 
 - - -
 

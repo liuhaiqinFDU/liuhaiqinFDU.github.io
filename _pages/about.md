@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# Whenever you sneeze, you're calling my name
-# —— 'Hǎi Qín!' <!-- <=..=> -->
 
-<p></p>
+
+<p>
+
+</p>
 
 **About Me**
 
@@ -18,8 +19,13 @@ I'm a PhD candidate in the Elite Ph.D. Program of Economics at [Fudan University
 
 My sister [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
 
-<p></p>
+<p>
+
+</p>
 
 **Research Focus**
 
 My research focus on Monetary Policy, International Macroeconomics and Financial Economics.
+
+**My name is pronounced as if you're sneezing —— 'Hǎi Qín!'**
+<!-- Whenever you sneeze, you're calling my name <=..=> -->

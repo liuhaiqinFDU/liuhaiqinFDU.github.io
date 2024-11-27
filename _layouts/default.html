@@ -9,8 +9,9 @@ layout: compress
 <head>
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/github-light.css' | relative_url }}">
-    {% include head.html %}
-    {% include head/custom.html %}
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
     <style>
       button.accordion2 {
           font: 14px/1.5 "Martian Mono", "Helvetica Neue", Helvetica, Arial, sans-serif;

@@ -24,9 +24,14 @@ title: ""
 **3. Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu)) [[Slides](https://www.dropbox.com/scl/fi/zkt3vkbojudzrnieeu58e/global_and_local_uncertainty_IU.pdf?rlkey=avpb7q9muhe31xaxfxv9omz8b\&dl=0)]
 *Presented at MEG 2023\*, NASMES 2024\*,  IAAE 2024*
 
+
+- - -
+
 <!--**4. Capital Controls and Financial Spillovers of U.S. Monetary Policy** (with [John Rogers](https://www.johnrogerseconomist.net/))-->
 
 <!--**5. Winners and Losers from U.S.-China Tension**-->
+
+
 
 
 

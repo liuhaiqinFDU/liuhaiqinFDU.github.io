@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Whenever you sneeze, you're calling my name"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# Whenever you sneeze, you're calling my name
 # —— 'Hǎi Qín!' <!-- <=..=> -->
 
 \\

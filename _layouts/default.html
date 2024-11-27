@@ -7,8 +7,6 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/github-light.css' | relative_url }}">
     {% include head.html %}
     {% include head/custom.html %}
     <style>
@@ -78,7 +76,9 @@ layout: compress
   </head>
 
   <body>
-
+    
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/github-light.css' | relative_url }}">
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 

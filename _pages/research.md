@@ -39,6 +39,10 @@ title: ""
 
 My research motivation is to develop a theory that captures the interaction and spillover effects of monetary policies between U.S. (Home) and China (Foreign). The model builds on [Geanakoplos & Wang (2020)](https://www.aeaweb.org/articles?id=10.1257/mac.20180484) (GW) and extends it to include the Foreign central bank's risky asset purchases -- in reality,  the PBC's Structural Monetary Policy (SMP). To make the PBC's asset purchase meaningful, I deviate from GW's original No-borrowing environment to assume Foreign as a Leverage Economy. Additionally, to generate persistent ``collateral gap'' in the free-trade equilibrium, one needs to assume more sophisticated financial system in the U.S. To make progress, I adopt the Tranching Economy setting of [Fostel, Geanakoplos & Phelan (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2921456). The nonlinear equation system is established and interaction effects between the Fed's QE and PBC's SMP are investigated.
 
+- - -
+
+- **The Impossible Trinity, Monetary Policy Spillover, and Collateral Constraint**
+This paper studies Mundell-Fleming's impossible trinity in a two-country endogenous collateral equilibrium model with monetary policy. The Home country (thought of as U.S.) is a Tranching economy, with monetary authority engaging in risky asset purchases and free capital movements. The Foreign is a Leverage economy, with capital control (CC) tax imposed on international asset purchases (inflows or outflows), and nominal exchange rate intervened by the central bank (FXI). I study the implications on how CC and FXI affect the spillover effects of Home monetary policy to Foreign asset price, which is tested empirically in my capital control paper (Ha, Liu \& Rogers, 2023).
 
 - - -
 

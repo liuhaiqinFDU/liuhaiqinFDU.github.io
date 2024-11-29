@@ -41,7 +41,7 @@ My research motivation is to develop a theory that captures the interaction and 
 
 - - -
 
-- **The Impossible Trinity, Monetary Policy Spillover, and Collateral Constraint**
+- **The Impossible Trinity, Monetary Policy Spillover, and Collateral Constraint** (*draft upon request*)
 
 This paper studies Mundell-Fleming's impossible trinity in a two-country endogenous collateral equilibrium model with monetary policy. The Home country (thought of as U.S.) is a Tranching economy, with monetary authority engaging in risky asset purchases and free capital movements. The Foreign is a Leverage economy, with capital control (CC) tax imposed on international asset purchases (inflows or outflows), and nominal exchange rate intervened by the central bank (FXI). I study the implications on how CC and FXI affect the spillover effects of Home monetary policy to Foreign asset price, which is tested empirically in my capital control paper (Ha, Liu \& Rogers, 2023).
 

@@ -16,7 +16,7 @@ My sister [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Sh
 
 ### Research Focus
 
-My research focus on Monetary Policy, International Macroeconomics and Financial Economics.
+My research focus on Monetary Policy, International Macro and Financial Economics.
 
 
 ### My name is pronounced as if you're sneezing —— 'Hǎi Qín!'

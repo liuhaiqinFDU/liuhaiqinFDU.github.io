@@ -1,5 +1,5 @@
 ---
-permalink: /policywork/
+permalink: /policy-work/
 author_profile: true
 title: ""
 ---
@@ -10,8 +10,6 @@ title: ""
 ## Policy Papers
 
 Ha, Jongrim; Liu, Haiqin; Rogers, John. **[Capital Controls in Emerging and Developing Economies and the Transmission of U.S. Monetary Policy](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)** Policy Research working paper ; no. WPS 10582 Washington, D.C. : World Bank Group.
-
-Ha, Jongrim; Islamaj, Ergys; Liu, Haiqin; Mattoo, Aaditya. **Economic Effects of Heightened Global Uncertainty** (Scheduled to present: [EAEA 2025](https://www.eaeaweb.com/)).
 
 
 - - -

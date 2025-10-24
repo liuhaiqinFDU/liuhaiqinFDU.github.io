@@ -14,12 +14,10 @@ title: ""
 - [**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878).
   *Forthcoming as Hong Kong Institute of Monetary and Financial Research Working Paper*
 - **Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)).
-*Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml)*; Under review at Economic Research Journal (in Chinese)
+*Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml); Under review at Economic Research Journal (in Chinese)*
 
 
 - - -
-
-<!--**4. Capital Controls and Financial Spillovers of U.S. Monetary Policy** (with [John Rogers](https://www.johnrogerseconomist.net/))-->
 
 <!--**5. Winners and Losers from U.S.-China Tension**-->
 
@@ -37,11 +35,11 @@ title: ""
 
 <!-- This paper studies Mundell-Fleming's impossible trinity in a two-country endogenous collateral equilibrium model with monetary policy. The Home country (thought of as U.S.) is a Tranching economy, with monetary authority engaging in risky asset purchases and free capital movements. The Foreign is a Leverage economy, with capital control (CC) tax imposed on international asset purchases (inflows or outflows), and nominal exchange rate intervened by the central bank (FXI). I study the implications on how CC and FXI affect the spillover effects of Home monetary policy to Foreign asset price, which is tested empirically in my capital control paper (Ha, Liu & Rogers, 2025). -->
 
-- **The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)]
+- **The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)]*
 
 - - -
 
-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)) [draft coming soon!]
+- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)) *[draft coming soon!]*
 
 <!--*Abstract*: We construct the Excess Bond Premium (EBP) measure for China, a representative macro indicator of risk-bearing capacity of financial market. As a by-product, we infer micro-level external financing costs via firm-level EBP. Crucially, in the construction of distance-to-default, we follow the framework of Geng and Pan (2024) to adjust for the SOE premium. We then apply identification via fat-tailed distribution to identify Chinese monetary policy shocks, and investigate the heterogeneous transmission of multi-dimensional PBOC shocks, through the lens of the firm-level EBP. We document that transmission effects of conventional PBC shocks decline with the firm-level EBP, consistent with Ottonello and Winberry (2020), while the transmission effects of balance-sheet dimension of PBC shocks increase with firm-level EBP, as a novel new finding. -->
 

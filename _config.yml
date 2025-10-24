@@ -25,8 +25,8 @@ author:
   name             : "Haiqin Liu"
   #pronouns         : "she/her"  
   bio              : "Ph.D. Candidate" #Economics 
-  location         : "Shanghai, China"
-  employer         : "Fudan University"
+  location         : "Washington, D.C."
+  employer         : "Fudan University; World Bank"
   uri              : # URL
   email            : "liuhq21@m.fudan.edu.cn" 
 
@@ -220,7 +220,7 @@ collections:
   research: #publications
     output: true
     permalink: /:collection/:path/
-  programs: #programs
+  policy-work: #programs
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -280,7 +280,7 @@ defaults:
       comments: true
   - scope:
       path: ""
-      type: programs 
+      type: policy-work 
     values:
       layout: single
       author_profile: true

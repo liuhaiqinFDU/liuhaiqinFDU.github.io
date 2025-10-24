@@ -1,5 +1,5 @@
 ---
-permalink: /policy-work/
+permalink: /policywork/
 author_profile: true
 title: ""
 ---

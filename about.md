@@ -9,9 +9,9 @@ redirect_from:
 
 ### About Me
 
-I'm a PhD candidate in the Elite Ph.D. Program of Economics at [Fudan University](https://www.fudan.edu.cn/en/). I received my Bachelor's degree in [Mathematical Economics](https://econ.fudan.edu.cn/info/1042/21448.htm) from Fudan, with a second major in Data Science.
+I'm a PhD candidate in the Elite Ph.D. Program of Economics at [Fudan University](https://www.fudan.edu.cn/en/). I received my Bachelor's degree in Mathematical Economics from Fudan, with a second major in Data Science.
 
-My sister [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
+<!--My sister [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).-->
 
 
 ### Research Focus

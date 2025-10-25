@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haiqin's Homepage"
+title                    : "Home" #Haiqin's Homepage
 title_separator          : "-"
 name                     : &name "Haiqin Liu"
 description              : &description "" #personal description My name is pronounced as if you're sneezing

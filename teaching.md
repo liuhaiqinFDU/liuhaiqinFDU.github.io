@@ -6,14 +6,13 @@ title: ""
 
 
 
-
-## Fudan University
-
-Workshops
+**Fudan Workshops**
 
 - Mini-course on Application of Econometric Software and Introduction to MATLAB (2022 Fall) [[Syllabus](https://mp.weixin.qq.com/s/TnQ_byG4DxLn13yXswG8Cw)]
 
-Teaching Assistant
+
+
+**Teaching Assistant**
 
 - Macroeconomy (FMBA/MBA 2024)
 - Multiparty Computing, Distributed Ledgers and Financial Services Theory and Practice ([FISS](https://iss.fudan.edu.cn/) 2024)

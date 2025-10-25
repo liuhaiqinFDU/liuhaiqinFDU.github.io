@@ -9,7 +9,7 @@ redirect_from:
 
 ### About Me
 
-I'm a PhD candidate in the Elite Ph.D. Program of Economics at [Fudan University](https://www.fudan.edu.cn/en/). I received my Bachelor's degree in Mathematical Economics from Fudan in 2021, with a second major in Data Science.
+I am a PhD candidate in the Elite PhD Program in Economics at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my Bachelor’s degree in Mathematical Economics from Fudan in 2021, with a second major in Data Science. I currently work as a Consultant at the World Bank Group.
 
 Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
 

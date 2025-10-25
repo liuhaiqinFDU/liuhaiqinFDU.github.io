@@ -43,7 +43,7 @@ title: ""
 
 <!--*Abstract*: We construct the Excess Bond Premium (EBP) measure for China, a representative macro indicator of risk-bearing capacity of financial market. As a by-product, we infer micro-level external financing costs via firm-level EBP. Crucially, in the construction of distance-to-default, we follow the framework of Geng and Pan (2024) to adjust for the SOE premium. We then apply identification via fat-tailed distribution to identify Chinese monetary policy shocks, and investigate the heterogeneous transmission of multi-dimensional PBOC shocks, through the lens of the firm-level EBP. We document that transmission effects of conventional PBC shocks decline with the firm-level EBP, consistent with Ottonello and Winberry (2020), while the transmission effects of balance-sheet dimension of PBC shocks increase with firm-level EBP, as a novel new finding. -->
 
-- **Global and Local Uncertainties in Small Open Economies** (with Sihao Chen, Shi Qiu)
+- **Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/research.html), [Shi Qiu](https://sites.google.com/view/shiqiu))
   *Presented at MEG 2023\*, NASMES 2024\*,  IAAE 2024, ESWC 2025\**
 
 <!-- **The Credit Surface and Monetary Policy in China** -->

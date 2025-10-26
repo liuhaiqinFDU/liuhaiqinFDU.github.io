@@ -29,13 +29,15 @@ title: ""
 
 **Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
+**Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). *[draft coming soon!]*
+
 **Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 
 **The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)]*
 
 **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). *[draft coming soon!]*
 
-**Global and Local Uncertainties in Small Open Economies** (with Sihao Chen, Shi Qiu). *Presented at IAAE 2024*
+**Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). *Presented at IAAE 2024*
 
 <!-- MEG 2023\*, NASMES 2024\*,  , ESWC 2025\** -->
 

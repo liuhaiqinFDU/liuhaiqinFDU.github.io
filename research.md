@@ -11,7 +11,7 @@ title: ""
 
 [**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599312) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] *Presented at EC-CEPR-JIE (2025); Under review at **Journal of International Economics***
 
-[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). *Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper*
+[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). *Forthcoming as **Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper***
 
 **Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml); **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)***
 
@@ -28,13 +28,21 @@ title: ""
 
 **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). *[draft coming soon!]*
 
+> We show spatial econometric evidence of uncertainty shocks transmit through global value chains: U.S. uncertainty travels upstream to suppliers, while China’s propagate downstream to customers.
+
 **Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
+
+> We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.
 
 **The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*]*
 
+> We examine how global uncertainty transmits to EMDEs through trade-openness and financial-linkage channels, using a micro-to-macro approach.
+
 **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). *[draft coming soon!]*
 
-**Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**
+> We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.
+
+**Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). [[Slides](https://www.dropbox.com/scl/fi/perp9i4hmndi3hq3iyos5/global_and_local_uncertainty_slides.pdf?rlkey=3qscgfvgcz6v5idd9rv3r1553&e=1&dl=0)] *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**
 
 <!-- **Structural Monetary Policy, Quantitative Easing, and Collateral Constraints: A Tale of Two Central Banks** (*draft upon request*) -->
 

@@ -15,11 +15,10 @@ Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at 
 
 
 
-
-### Research Focus
-
-My research focus on Monetary Policy, International Macro and Uncertainty.
+#### My research focus on Monetary Policy, International Macro and Uncertainty.
 
 
-### My name is pronounced as if you're sneezing —— 'Hǎi Qín!'
+
+#### My name is pronounced as if you're sneezing —— 'Hǎi Qín!'
+
 <!-- Whenever you sneeze, you're calling my name <=..=> -->

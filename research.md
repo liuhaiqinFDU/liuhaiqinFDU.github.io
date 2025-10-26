@@ -26,7 +26,7 @@ title: ""
 
 **Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
-**Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). *[draft coming soon!]* <!-- We show spatial econometric evidence of uncertainty shocks transmit through global value chains: U.S. uncertainty travels upstream to suppliers, while China’s propagate downstream to customers. -->
+**Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] <!-- We show spatial econometric evidence of uncertainty shocks transmit through global value chains: U.S. uncertainty travels upstream to suppliers, while China’s propagate downstream to customers. -->
 
 **Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
@@ -34,7 +34,7 @@ title: ""
 **The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*]*
 *We examine how global uncertainty transmits to EMDEs through trade openness and financial linkages, using a micro-to-macro approach.*
 
-**The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). *[draft coming soon!]* <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
+**The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
 
 **Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). [[Slides](https://www.dropbox.com/scl/fi/perp9i4hmndi3hq3iyos5/global_and_local_uncertainty_slides.pdf?rlkey=3qscgfvgcz6v5idd9rv3r1553&e=1&dl=0)] *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**
 

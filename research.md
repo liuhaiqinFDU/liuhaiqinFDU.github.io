@@ -10,7 +10,7 @@ title: ""
 ## Working papers
 
 [**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599312) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)]
-*Presented at [Global Shocks, Macroeconomic Spillovers and Geopolitical Risks: Policy Challenges](https://cepr.org/events/global-shocks-macroeconomic-spillovers-and-geopolitical-risks-policy-challenges) (2025, EC-CEPR-JIE)*
+*Presented at EC-CEPR-JIE (2025)*
 
 [**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878).
 *Forthcoming as Hong Kong Institute of Monetary and Financial Research Working Paper*
@@ -37,9 +37,7 @@ title: ""
 
 **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). *[draft coming soon!]*
 
-**Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). *Presented at IAAE 2024*
-
-<!-- MEG 2023\*, NASMES 2024\*,  , ESWC 2025\** -->
+**Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**
 
 <!-- **Structural Monetary Policy, Quantitative Easing, and Collateral Constraints: A Tale of Two Central Banks** (*draft upon request*) -->
 

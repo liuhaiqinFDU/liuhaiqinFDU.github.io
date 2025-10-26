@@ -36,7 +36,7 @@ title: ""
 
 **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
 
-**Global and Local Uncertainties in Small Open Economies** (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu/research)). [[Slides](https://www.dropbox.com/scl/fi/perp9i4hmndi3hq3iyos5/global_and_local_uncertainty_slides.pdf?rlkey=3qscgfvgcz6v5idd9rv3r1553&e=1&dl=0)] *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**
+**Global and Local Uncertainties in Small Open Economies** (with Sihao Chen, Shi Qiu). [[Slides](https://www.dropbox.com/scl/fi/perp9i4hmndi3hq3iyos5/global_and_local_uncertainty_slides.pdf?rlkey=3qscgfvgcz6v5idd9rv3r1553&e=1&dl=0)] *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**
 
 <!-- **Structural Monetary Policy, Quantitative Easing, and Collateral Constraints: A Tale of Two Central Banks** (*draft upon request*) -->
 

@@ -11,7 +11,7 @@ title: ""
 
 [**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599312) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)]
 
-*Presented at EC-CEPR-JIE (2025)\*; Under review at Journal of International Economics*
+*Presented at EC-CEPR-JIE (2025); Under review at Journal of International Economics*
 
 [**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878).
 

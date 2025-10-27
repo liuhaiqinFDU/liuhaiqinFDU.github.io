@@ -13,9 +13,6 @@ title: ""
 
 **Collateral Constraints and The Transmission of Chinese Monetary Policy: Theory and Practice** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml); **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)***
 
-
-- - -
-
 <!--**5. Winners and Losers from U.S.-China Tension**-->
 
 

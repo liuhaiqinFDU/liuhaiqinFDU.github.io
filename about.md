@@ -9,9 +9,9 @@ redirect_from:
 
 ### About Me
 
-I am a PhD candidate in the Elite PhD Program in Economics at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my Bachelor’s degree in Mathematical Economics from Fudan in 2021, with a second major in Data Science. I currently work as a Consultant at the World Bank Group.
+## Welcome to my website!
 
-<!-- Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/). -->
+I am a PhD candidate in the Elite PhD Program in Economics at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my Bachelor’s degree in Mathematical Economics from Fudan in 2021, with a second major in Data Science. I currently work as a Consultant at the World Bank Group.
 
 
 
@@ -19,6 +19,10 @@ I am a PhD candidate in the Elite PhD Program in Economics at [Fudan University]
 
 
 
-### My name is pronounced as if you're sneezing —— 'Hǎi Qín!'
+### About me
+
+- My name is pronounced as if you're sneezing —— 'Hǎi Qín!'
+
+- Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) and contributes part-time to my research projects.
 
 <!-- Whenever you sneeze, you're calling my name <=..=> -->

@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 bluesky:
-  username               : &haiqinliu.bsky.social
+  username               : "&haiqinliu.bsky.social"
 facebook:
   username               :
   app_id                 :

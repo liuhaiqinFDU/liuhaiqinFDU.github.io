@@ -15,7 +15,7 @@ I am a PhD candidate in the Elite PhD Program in Economics at [Fudan University]
 
 
 
-### My research focus on Monetary Policy, International Macro and Finance.
+### My research focus on International Finance, Monetary Policy and Uncertainty.
 
 
 

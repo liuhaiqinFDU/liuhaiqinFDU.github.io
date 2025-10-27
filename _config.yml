@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haiqin Liu"
-  #pronouns         : "she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D. Candidate" #Economics 
   location         : "Washington, D.C."
   employer         : "Fudan University; World Bank"
-  uri              : # URL
+  uri              : "https://liuhaiqinfdu.github.io/"
   email            : "liuhq21@m.fudan.edu.cn" 
 
   # Academic websites

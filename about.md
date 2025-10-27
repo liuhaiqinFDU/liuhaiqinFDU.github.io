@@ -23,6 +23,6 @@ I am a PhD candidate in the Elite PhD Program in Economics at [Fudan University]
 
 - My name is pronounced as if you're sneezing —— 'Hǎi Qín!'
 
-- Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) and contributes part-time to my research projects.
+- Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) and contributes part-time to my research under my mentorship.
 
 <!-- Whenever you sneeze, you're calling my name <=..=> -->

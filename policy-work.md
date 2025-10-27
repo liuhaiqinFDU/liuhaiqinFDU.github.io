@@ -7,7 +7,7 @@ title: ""
 ## **Operational Tooling & Technical Support**
 
 - [Growth Volatility Decomposition Tools](https://haiqinliu.shinyapps.io/Vol_Decomp_New/)
-- [Sectoral Fiscal Spending Shock & Responses](https://haiqinliu.shinyapps.io/RegionalIO_FiscalShock/)
+- [Sectoral Fiscal Spending Shocks & Responses](https://haiqinliu.shinyapps.io/RegionalIO_FiscalShock/)
 - [MRIO Dashboard](https://haiqinliu.shinyapps.io/MRIO_EAP_app/)
 
 

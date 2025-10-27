@@ -15,7 +15,7 @@ Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at 
 
 
 
-### My research focus on Monetary Policy, International Macro and Uncertainty.
+### My research focus on Monetary Policy, International Macro and Finance.
 
 
 

@@ -27,7 +27,7 @@ title: ""
 **The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*]*
 *We examine how global uncertainty transmits to EMDEs from micro to macro.*
 
-**Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
+**Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
 [**Global and Local Uncertainties in Small Open Economies**](https://virtual.oxfordabstracts.com/event/73643/submission/1900) (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\** [[Slides](https://www.dropbox.com/scl/fi/690rsa9gvvnxmg567utid/global_and_local_uncertainty_slides.pdf?rlkey=ddz6o3kemf8017iaxhhkzcax6&st=fj7ab5o5&dl=0)] *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.*

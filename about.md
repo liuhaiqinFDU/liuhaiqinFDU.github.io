@@ -13,7 +13,7 @@ I am a candidate in the Elite PhD Program in Economics at [Fudan University](htt
 
 
 
-## Research field
+## Research fields
 
 **Primary**: International Finance & Macroeconomics
 
@@ -23,7 +23,7 @@ I am a candidate in the Elite PhD Program in Economics at [Fudan University](htt
 
 
 
-*My name is pronounced as if you're sneezing —— 'Hǎi Qín!'*
+*\* My name is pronounced as if you're sneezing —— 'Hǎi Qín!'*
 
 <!-- Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) and contributes part-time to my research under my mentorship. -->
 

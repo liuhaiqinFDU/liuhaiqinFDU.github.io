@@ -21,18 +21,16 @@ title: ""
 
 **Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
-**Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] 
-*We study how uncertainty originating from trade partners propagates through global value chains.*
+**Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). <!-- [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 
-**The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*]*
-*We examine how global uncertainty transmits to EMDEs from micro to macro.*
+**The Economic Effects of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
 **Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
-[**Global and Local Uncertainties in Small Open Economies**](https://virtual.oxfordabstracts.com/event/73643/submission/1900) (with [Sihao Chen](https://chensihao.weebly.com/), [Shi Qiu](https://sites.google.com/view/shiqiu)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\** [[Slides](https://www.dropbox.com/scl/fi/690rsa9gvvnxmg567utid/global_and_local_uncertainty_slides.pdf?rlkey=ddz6o3kemf8017iaxhhkzcax6&st=fj7ab5o5&dl=0)] *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.*
+**The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] <!-- *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 
-**The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.*
+**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\** <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
 

@@ -7,6 +7,7 @@ title: ""
 ## **Operational Tooling & Technical Support**
 
 - [Growth Volatility Decomposition Tools](https://haiqinliu.shinyapps.io/Vol_Decomp_New/)
+- [Structural Breaks in Growth and Employment](https://liuhaiqin.shinyapps.io/StructuralBreakWAP/)
 
 <!-- [Sectoral Fiscal Spending Shocks & Responses](https://haiqinliu.shinyapps.io/RegionalIO_FiscalShock/)-->
 

@@ -7,11 +7,11 @@ title: ""
 
 ## Working papers
 
-[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). **Job Market Paper**. *Forthcoming as **Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper*** [[Slides]](https://www.dropbox.com/scl/fi/1ah21zdix0pv5jyp8b6zh/JMP_Slides_EAPCE.pdf?rlkey=wx9xij80ewuhib318xxim3mpx&st=j7kdhzi3&dl=0).
+[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). **Job Market Paper**. *Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper* [[Slides]](https://www.dropbox.com/scl/fi/1ah21zdix0pv5jyp8b6zh/JMP_Slides_EAPCE.pdf?rlkey=wx9xij80ewuhib318xxim3mpx&st=j7kdhzi3&dl=0).
+
+[**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). *Under Review*.
 
 [**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599312) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] *Presented at EC-CEPR-JIE (2025).*
-
-**Collateral Constraints and The Transmission of Chinese Monetary Policy: Theory and Practice** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).*
 
 <!-- **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)** **5. Winners and Losers from U.S.-China Tension**-->
 
@@ -19,16 +19,18 @@ title: ""
 
 ## Selected work in progress
 
+**Collateral Constraints and The Transmission of Chinese Monetary Policy: Theory and Practice** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).*
+
 **Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
 **Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
-**Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). <!-- [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
+<!-- **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 
 **The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
-**The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] <!-- *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
+<!-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 
 **Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 

@@ -35,6 +35,8 @@ $$
 
 ![sortKC](./images/sortKC.png)
 
-![sortEA](./images/sortEA.png) 
+ 
 
 ![sortMaPP](./images/sortMaPP.png)
+
+*MPru stance is measured as the cumulative sum of the MPru action indicator.*

@@ -7,7 +7,7 @@ title: ""
 
 ## Working papers
 
-[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). *Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper*. [[Slides]](https://www.dropbox.com/scl/fi/1ah21zdix0pv5jyp8b6zh/JMP_Slides_EAPCE.pdf?rlkey=wx9xij80ewuhib318xxim3mpx&st=j7kdhzi3&dl=0)
+[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). *Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper*. [[Slides]](https://www.dropbox.com/scl/fi/syt73glashowatap0l2ax/JMP_Slides_EAPCE.pdf?rlkey=ok4rv6evq66lx307biadqruyn&st=4sd55cfa&dl=0)
 
 [**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). *Under Review*.
 

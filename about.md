@@ -39,7 +39,7 @@ $$
 
 ![sortMaPP](./images/sortMaPP.png)
 
-*MPru stance is measured as the cumulative sum of the MPru action indicator.*
+*\* MPru stance is measured as the cumulative sum of the MPru action indicator.*
 
 
 

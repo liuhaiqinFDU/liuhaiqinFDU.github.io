@@ -7,13 +7,13 @@ title: ""
 
 ## Working papers
 
-[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). **Job Market Paper**. *Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper*. 
+[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). *Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper*. [[Slides]](https://www.dropbox.com/scl/fi/1ah21zdix0pv5jyp8b6zh/JMP_Slides_EAPCE.pdf?rlkey=wx9xij80ewuhib318xxim3mpx&st=j7kdhzi3&dl=0)
 
 [**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). *Under Review*.
 
 [**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599312) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] *Presented at EC-CEPR-JIE (2025).*
 
-<!-- **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)** **5. Winners and Losers from U.S.-China Tension**  [[Slides]](https://www.dropbox.com/scl/fi/1ah21zdix0pv5jyp8b6zh/JMP_Slides_EAPCE.pdf?rlkey=wx9xij80ewuhib318xxim3mpx&st=j7kdhzi3&dl=0)-->
+<!-- **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)** **5. Winners and Losers from U.S.-China Tension**  -->
 
 
 

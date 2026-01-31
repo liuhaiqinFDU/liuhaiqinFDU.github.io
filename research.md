@@ -55,3 +55,4 @@ title: ""
 <!-- **The Credit Surface and Monetary Policy in China** -->
 
 <!-- The credit surface is a major concept proposed by [Geanakoplos (2016)](https://www.elibrary.imf.org/display/book/9780262034623/ch015.xml), and has been proven to be crucial for monetary policy transmission. This research quantifies the credit surface in China, aiming to provide practical guidance for PBC's monetary policy and macroprudential implementation. -->
+

@@ -28,7 +28,7 @@ title: ""
 
 <!-- **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 
-<!-- **Trade Uncertainty and Maturity of Labor Contracts** (with [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Duong Trung Le](https://sites.google.com/view/duongle/home) and [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).-->
+**Trade Uncertainty and Maturity of Labor Contracts** (with [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Duong Trung Le](https://sites.google.com/view/duongle/home) and [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
 
 **The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 

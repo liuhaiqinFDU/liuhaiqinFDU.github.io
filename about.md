@@ -9,7 +9,7 @@ redirect_from:
 
 ## *My name is pronounced as if you're sneezing —— 'Hǎi Qín!'*
 
-I am a candidate in the Elite PhD Program in Economics at [Fudan University](https://www.fudan.edu.cn/en/) (expected March 2026). I obtained my Bachelor’s degree in Mathematical Economics from Fudan in 2021, with a second major in Data Science. I currently work as a Consultant at the World Bank Group. 
+I am a candidate in the Elite PhD Program in Economics at [Fudan University](https://www.fudan.edu.cn/en/) (expected March 2026). I obtained my Bachelor’s degree in Mathematical Economics from Fudan in 2021, with a second major in Data Science. I currently work as a research consultant at the World Bank Group. 
 
 
 

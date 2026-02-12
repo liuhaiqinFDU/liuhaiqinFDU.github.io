@@ -34,7 +34,7 @@ title: ""
 
 <!-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 
-**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
+**Global and Local Uncertainties in Small Open Economies** (with Shi Qiu). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
 

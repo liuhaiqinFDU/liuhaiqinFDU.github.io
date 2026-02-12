@@ -21,6 +21,6 @@ Ha, Jongrim; Liu, Haiqin; Rogers, John. **[Capital Controls in Emerging and Deve
 
 ## World Bank Flagship Reports
 
-World Bank. 2025. [East Asia and Pacific Economic Update](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update), October 2025, World Bank Flagship Report, Research Assistant.
+World Bank. 2025. [East Asia and Pacific Economic Update](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update), October 2025, World Bank Flagship Report.
 
-World Bank. 2025. [East Asia and Pacific Economic Update](https://openknowledge.worldbank.org/entities/publication/f0f015fa-1d24-41a7-9101-c27875a79cf7), April 2025, World Bank Flagship Report, Research Assistant.
+World Bank. 2025. [East Asia and Pacific Economic Update](https://openknowledge.worldbank.org/entities/publication/f0f015fa-1d24-41a7-9101-c27875a79cf7), April 2025, World Bank Flagship Report.

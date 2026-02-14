@@ -11,7 +11,7 @@ title: ""
 
 [**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] *Revise & Resubmit at Finance Research Letters.*
 
-[**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5894294) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] *Presented at EC-CEPR-JIE (2025).*
+[**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5894294) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] *Revise & Resubmit at Journal of Development Economics.*
 
 <!-- **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)** **5. Winners and Losers from U.S.-China Tension**  -->
 

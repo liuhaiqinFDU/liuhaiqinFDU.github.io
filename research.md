@@ -15,11 +15,13 @@ title: ""
 
 <!-- **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)** **5. Winners and Losers from U.S.-China Tension**  -->
 
+**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). Accepted at **New Finance** (*Xin Jinrong*, in Chinese).
 
+**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). Accepted at **Research on Financial and Economic Issues** (*Caijin Wenti Yanjiu*, in Chinese).
 
 ## Selected work in progress
 
-**Collateral Constraints and The Transmission of Chinese Monetary Policy: Theory and Practice** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).*
+**Collateral Constraints and The Transmission of Chinese Monetary Policy: Theory and Practice** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*.
 
 **Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
@@ -30,7 +32,7 @@ title: ""
 
 **Trade Uncertainty and Maturity of Labor Contracts** (with [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Duong Trung Le](https://sites.google.com/view/duongle/home) and [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
 
-**The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
+**The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
 <!-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 

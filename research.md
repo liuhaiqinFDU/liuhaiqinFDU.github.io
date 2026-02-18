@@ -7,17 +7,17 @@ title: ""
 
 ## Working papers
 
-[**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5894294) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] **Revise & Resubmit at Journal of Development Economics**.
+[**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5894294) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] **<font color="red">Revise & Resubmit at Journal of Development Economics</font>**.
 
-[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). **Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper**. [[Slides](https://www.dropbox.com/scl/fi/syt73glashowatap0l2ax/JMP_Slides_EAPCE.pdf?rlkey=ok4rv6evq66lx307biadqruyn&st=4sd55cfa&dl=0)]
+[**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878). **<font color="red">Forthcoming as Hong Kong Institute of Monetary and Financial Research (HKIMR) Working Paper</font>**. [[Slides](https://www.dropbox.com/scl/fi/syt73glashowatap0l2ax/JMP_Slides_EAPCE.pdf?rlkey=ok4rv6evq66lx307biadqruyn&st=4sd55cfa&dl=0)]
 
-[**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] **Revise & Resubmit at Finance Research Letters**.
+[**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] **<font color="red">Revise & Resubmit at Finance Research Letters</font>**.
 
 <!-- **Revise & Resubmitted at Economic Research Journal (Top A in Chinese)** **5. Winners and Losers from U.S.-China Tension**  -->
 
-**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). Accepted at **New Finance** (*Xin Jinrong*, in Chinese).
+**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). <font color="red">Accepted at **New Finance**</font> (*Xin Jinrong*, in Chinese).
 
-**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). Accepted at **Research on Financial and Economic Issues** (*Caijin Wenti Yanjiu*, in Chinese).
+**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). <font color="red">Accepted at **Research on Financial and Economic Issues**</font>  (*Caijin Wenti Yanjiu*, in Chinese).
 
 ## Selected work in progress
 

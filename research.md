@@ -13,7 +13,7 @@ title: ""
 
 [**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296), Sole Author. [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] **<font color="red">Revise & Resubmit at Finance Research Letters</font>**.
 
-**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review at [Social Sciences in China](https://en.wikipedia.org/wiki/Social_Sciences_in_China_(journal))*. [English abstract available upon request]
+**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review at [Social Sciences in China](https://en.wikipedia.org/wiki/Social_Sciences_in_China_(journal))*. [[English abstract available upon request]()]
 
 <!-- **The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at  New Finance</font>** (*Xin Jinrong*, in Chinese). -->
 

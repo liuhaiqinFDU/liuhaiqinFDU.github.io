@@ -19,22 +19,22 @@ title: ""
 
 ## Selected work in progress
 
-**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*.
-
 **Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
+
+**Trade Uncertainty and Maturity of Labor Contracts** (with [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Duong Trung Le](https://sites.google.com/view/duongle/home) and [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
 
 **Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
 <!-- **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 
-**Trade Uncertainty and Maturity of Labor Contracts** (with [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Duong Trung Le](https://sites.google.com/view/duongle/home) and [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
-
 **The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
+
+**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*.
 
 <!-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 
-**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
+**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**, 2nd CAMRisk. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
 

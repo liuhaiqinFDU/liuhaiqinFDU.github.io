@@ -13,9 +13,9 @@ title: ""
 
 [**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] **<font color="red">Revise & Resubmit at Finance Research Letters</font>**.
 
-**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at  New Finance</font>** (*Xin Jinrong*, in Chinese).
+<!-- **The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at  New Finance</font>** (*Xin Jinrong*, in Chinese). -->
 
-**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at Research on Financial and Economic Issues</font>**  (*Caijin Wenti Yanjiu*, in Chinese).
+<!-- **Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at Research on Financial and Economic Issues</font>**  (*Caijin Wenti Yanjiu*, in Chinese). -->
 
 ## Selected work in progress
 

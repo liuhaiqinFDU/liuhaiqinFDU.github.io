@@ -13,9 +13,11 @@ title: ""
 
 [**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296). [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] **<font color="red">Revise & Resubmit at Finance Research Letters</font>**.
 
-<!-- **The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at  New Finance</font>** (*Xin Jinrong*, in Chinese). -->
+**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review at Social Sciences in China*.
 
-<!-- **Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at Research on Financial and Economic Issues</font>**  (*Caijin Wenti Yanjiu*, in Chinese). -->
+**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at  New Finance</font>** (*Xin Jinrong*, in Chinese).
+
+**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at Research on Financial and Economic Issues</font>**  (*Caijin Wenti Yanjiu*, in Chinese).
 
 ## Selected work in progress
 
@@ -30,11 +32,9 @@ title: ""
 
 **The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
-**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*.
+**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**, 2nd CAMRisk. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 <!-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [<font color="red">new draft coming soon!</font>] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
-
-**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**, 2nd CAMRisk. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 <!-- We build the EBP index for China adjusted for [Geng and Pan’s (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13380) SOE premium.-->
 

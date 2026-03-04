@@ -11,13 +11,9 @@ title: ""
 
 [**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878), Sole Author. [**[<font color="red">HKIMR WP</font>](https://www.aof.org.hk/docs/default-source/hkimr/working-papers/2025/full-textb6d5838a-ca50-4e38-bd37-2a104a50b361.pdf?sfvrsn=43fe4540_1)**]. [[Slides](https://www.dropbox.com/scl/fi/syt73glashowatap0l2ax/JMP_Slides_EAPCE.pdf?rlkey=ok4rv6evq66lx307biadqruyn&st=4sd55cfa&dl=0)]
 
-[**Conventional vs Innovative Monetary Policy in China: Effects on the Yield Curve and Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6018296), Sole Author. [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] **<font color="red">Accepted at Finance Research Letters</font>**.
-
 **Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review at [Social Sciences in China](https://en.wikipedia.org/wiki/Social_Sciences_in_China_(journal))*. [[English abstract available upon request]()]
 
-<!-- **The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at  New Finance</font>** (*Xin Jinrong*, in Chinese). -->
 
-<!-- **Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). **<font color="red">Accepted at Research on Financial and Economic Issues</font>**  (*Caijin Wenti Yanjiu*, in Chinese). -->
 
 ## Selected work in progress
 
@@ -31,6 +27,14 @@ title: ""
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
 **Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**, 2nd CAMRisk. <!-- *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
+
+## Publication
+
+[**Conventional vs Innovative Monetary Policy Transmission in China: Term-Structure and Credit-Spread Effects**](https://www.sciencedirect.com/science/article/pii/S1544612326002680?via%3Dihub), Sole Author. [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] ***Finance Research Letters (forthcoming)***.
+
+**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Accepted at  New Finance*** (*Xin Jinrong*, in Chinese). 
+
+**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Accepted at Research on Financial and Economic Issues***  (*Caijin Wenti Yanjiu*, in Chinese).
 
 <!-- **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 

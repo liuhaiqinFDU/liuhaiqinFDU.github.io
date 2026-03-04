@@ -15,7 +15,7 @@ I am a Research Consultant in the World Bank’s East Asia and Pacific Chief Eco
 
 ## Research fields
 
-**Primary**: International Finance & Macroeconomics; **Secondary**: Monetary Policy, Uncertainty
+**Primary**: International Finance & Macroeconomics; **Secondary**: Uncertainty
 
 <!-- Mi hermanita [Haihan Liu](https://github.com/GraceHanLiu) studies Statistics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) and contributes part-time to my research under my mentorship. -->
 

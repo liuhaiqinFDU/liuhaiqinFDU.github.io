@@ -30,7 +30,7 @@ title: ""
 
 ## Publication
 
-[**Conventional vs Innovative Monetary Policy Transmission in China: Term-Structure and Credit-Spread Effects**](https://www.sciencedirect.com/science/article/pii/S1544612326002680?via%3Dihub), Sole Author. [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] ***Finance Research Letters (forthcoming)***.
+[**Conventional vs Innovative Monetary Policy Transmission in China: Term-Structure and Credit-Spread Effects**](https://www.sciencedirect.com/science/article/pii/S1544612326002680), Sole Author. [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] ***Finance Research Letters***, 95:109738, 2026.
 
 **The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Accepted at  New Finance*** (*Xin Jinrong*, in Chinese). 
 

@@ -17,16 +17,16 @@ title: ""
 
 ## Selected work in progress
 
-**Uncertainty Shocks, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
+**Uncertainty, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
 **Uncertainty and Labor Contract Incompleteness** (with [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Duong Trung Le](https://sites.google.com/view/duongle/home), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
 
 **The Economic Impact of Heightened Global Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
-**Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
+**Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
-**Global and Local Uncertainties in Small Open Economies** (with Shi Qiu). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**, 2nd CAMRisk. <!-- ](https://sites.google.com/view/shiqiu/home) *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
+**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\*, 2nd CAMRisk (scheduled)\**. <!--  *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 ## Publication
 

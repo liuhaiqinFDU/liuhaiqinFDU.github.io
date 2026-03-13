@@ -26,7 +26,7 @@ title: ""
 **Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
 
-**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\*, 2nd CAMRisk (scheduled)*. <!--  *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
+**Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023\*, NASMES 2024\*, IAAE 2024, ESWC 2025\**. <!--  *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
 ## Publication
 

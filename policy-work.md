@@ -8,7 +8,7 @@ title: ""
 
 - [Growth Volatility Decomposition Tools](https://haiqinliu.shinyapps.io/Vol_Decomp_New/)
 - [Structural Breaks in Growth and Jobs](https://liuhaiqin.shinyapps.io/StructuralBreakWAP/)
-- [International and Domestic Input-Output Linkages](liuhaiqin.shinyapps.io/IOLinkages/)
+- [International and Domestic Input-Output Linkages](https://liuhaiqin.shinyapps.io/IOLinkages/)
 
 <!-- [Sectoral Fiscal Spending Shocks & Responses](https://haiqinliu.shinyapps.io/RegionalIO_FiscalShock/)-->
 

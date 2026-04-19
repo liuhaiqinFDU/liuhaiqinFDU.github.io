@@ -30,4 +30,4 @@ World Bank. 2025. [Jobs](https://www.worldbank.org/en/publication/east-asia-and-
 
 - Research featured in **Figure O4**: "Global economic policy uncertainty, especially around trade, remains elevated, and could hurt investment."
 
-World Bank. 2025. [A Longer View](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update-april-2025), East Asia and Pacific Economic Update, April 2025.
+World Bank. 2025. [A Longer View](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update-april-2025), *East Asia and Pacific Economic Update*, April 2025.

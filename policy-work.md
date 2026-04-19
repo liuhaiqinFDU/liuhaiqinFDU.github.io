@@ -24,7 +24,7 @@ Ha, Jongrim; Liu, Haiqin; Rogers, John. **[Capital Controls in Emerging and Deve
 
 World Bank. 2026. [Industrial Policy in the Digital Age](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update), *East Asia and Pacific Economic Update*, April 2026.
 
-- Research featured in **Box I.2**,  "U.S. Federal Monetary Policy and EAP Economy Premiums," and **Figure I.26**, "Uncertainty abroad increases informality and lowers wages."
+- Research featured in **Box I.2**,  "U.S. Federal Monetary Policy and EAP Economy Premiums," **Figure I.25** and **Figure I.26**, "Uncertainty abroad increases informality and lowers wages."
 
 World Bank. 2025. [Jobs](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update-october-2025), *East Asia and Pacific Economic Update*, October 2025.
 

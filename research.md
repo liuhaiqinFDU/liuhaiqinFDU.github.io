@@ -21,10 +21,10 @@ title: ""
 
 **[Quantifying the Economic Impacts of Heightened Global Uncertainty on Developing Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435574)** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
+**Uncertainty, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
+
 **Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*
-
-**Uncertainty, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
 **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). <!-- [Draft coming soon] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 

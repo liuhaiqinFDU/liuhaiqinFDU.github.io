@@ -36,7 +36,7 @@ title: ""
 
 **The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***New Finance*** (*Xin Jinrong*, in Chinese), 2026:4.
 
-**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Accepted at Research on Financial and Economic Issues***  (*Caijin Wenti Yanjiu*, in Chinese).
+**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Research on Financial and Economic Issues***  (*Caijin Wenti Yanjiu*, in Chinese), 2026:4.
 
 <!-- **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 

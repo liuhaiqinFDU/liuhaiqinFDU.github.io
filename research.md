@@ -11,7 +11,7 @@ title: ""
 
 [**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878), Sole Author. [**[<font color="red">HKIMR WP</font>](https://www.aof.org.hk/docs/default-source/hkimr/working-papers/2025/full-textb6d5838a-ca50-4e38-bd37-2a104a50b361.pdf?sfvrsn=43fe4540_1)**]. [[Slides](https://www.dropbox.com/scl/fi/syt73glashowatap0l2ax/JMP_Slides_EAPCE.pdf?rlkey=ok4rv6evq66lx307biadqruyn&st=4sd55cfa&dl=0)]
 
-**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html) (thesis advisor)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*. [[English abstract available upon request]()] <!-- at [Social Sciences in China](https://en.wikipedia.org/wiki/Social_Sciences_in_China_(journal)) -->
+**Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*. [[English abstract available upon request]()] <!-- at [Social Sciences in China](https://en.wikipedia.org/wiki/Social_Sciences_in_China_(journal)) -->
 
 
 

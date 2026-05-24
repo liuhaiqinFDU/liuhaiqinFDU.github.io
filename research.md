@@ -13,13 +13,11 @@ title: ""
 
 **Collateral Constraints and The Transmission of Chinese Monetary Policy** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). *Presented at [China Finance Annual Conference (2024)](http://www.jryj.org.cn/CN/news/news104.shtml).* *Under review*. [[English abstract available upon request]()] <!-- at [Social Sciences in China](https://en.wikipedia.org/wiki/Social_Sciences_in_China_(journal)) -->
 
-
+**[Quantifying the Economic Impacts of Heightened Global Uncertainty on Developing Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435574)** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
 ## Selected work in progress
 
 **Trade Policy Uncertainty and Labor Informality** (with [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Duong Trung Le](https://sites.google.com/view/duongle/home), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
-
-**[Quantifying the Economic Impacts of Heightened Global Uncertainty on Developing Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435574)** (with [Jongrim Ha](https://www.jongrimha.com/), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)). *Under review*. <!-- *Scheduled to present: [[EAEA 2025](https://www.eaeaweb.com/)\*] We examine how global uncertainty transmits to EMDEs from micro to macro.* -->
 
 **Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
 *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.*

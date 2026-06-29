@@ -32,9 +32,9 @@ title: ""
 
 [**Conventional vs Innovative Monetary Policy Transmission in China: Term-Structure and Credit-Spread Effects**](https://www.sciencedirect.com/science/article/pii/S1544612326002680), Sole Author. [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1TVTXA)] ***Finance Research Letters***, 95:109738, 2026.
 
-**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***New Finance*** (*Xin Jinrong*, in Chinese), 2026:4.
+[**The Great Transformation of China’s Monetary Policy Framework: The Perspective of Collateral**](https://mp.weixin.qq.com/s/1tCdRL5hoKjske1TubA3aA) (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***New Finance*** (*Xin Jinrong*, in Chinese), 2026:4.
 
-**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data** (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Research on Financial and Economic Issues***  (*Caijin Wenti Yanjiu*, in Chinese), 2026:4.
+[**Capital Controls, Exchange Rate Regimes, and the International Transmission of China’s Monetary Policy: Evidence from Cross-Country Firm-Level Data**](https://zzs.dufe.edu.cn/file/2fcbcbae-46ad-11f1-8b6b-005056a49984/%E4%B8%89%E5%85%83%E6%82%96%E8%AE%BA_%E7%8E%8B%E6%B0%B8%E9%92%A6_L.pdf) (with [Yongqin Wang](https://fisf.fudan.edu.cn/en_show-112-156.html)). ***Research on Financial and Economic Issues***  (*Caijin Wenti Yanjiu*, in Chinese), 2026:4.
 
 <!-- **Fragmented Uncertainty Spillovers** (with [Jongrim Ha](https://www.jongrimha.com/)). [<font color="red">new draft coming soon!</font>] *We study how uncertainty originating from trade partners propagates through global value chains.*-->
 

@@ -7,7 +7,7 @@ title: ""
 
 ## Working papers
 
-[**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5894294) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] **<font color="red">Revise & Resubmit at Journal of Development Economics</font>**.
+[**Capital Controls, Exchange Rate Arrangements, and the Transmission of U.S. Monetary Policy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5894294) (with [Jongrim Ha](https://www.jongrimha.com/), [John Rogers](https://www.johnrogerseconomist.net/)). [[DECPG WP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099737510042356177/idu0d0f72eff0c5f40430109e25085e3858b298c)] [[EC Slides](https://b1scrape.westeurope.cloudapp.azure.com/conf/2025/slides/I_JongrimHa.pdf)] **<font color="red">Revise & Resubmitted at Journal of Development Economics</font>**.
 
 [**The Trilemma, Macroprudential Policy, and Monetary Spillovers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538878), Sole Author. [**[<font color="red">HKIMR WP</font>](https://www.aof.org.hk/docs/default-source/hkimr/working-papers/2025/full-textb6d5838a-ca50-4e38-bd37-2a104a50b361.pdf?sfvrsn=43fe4540_1)**]. [[Slides](https://www.dropbox.com/scl/fi/syt73glashowatap0l2ax/JMP_Slides_EAPCE.pdf?rlkey=ok4rv6evq66lx307biadqruyn&st=4sd55cfa&dl=0)]
 

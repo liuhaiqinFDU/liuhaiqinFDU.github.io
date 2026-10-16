@@ -19,12 +19,9 @@ title: ""
 
 **Trade Policy Uncertainty and Labor Informality** (with [Daisuke Fukuzawa](https://www.worldbank.org/en/about/people/d/daisuke-fukuzawa), [Ergys Islamaj](https://www.worldbank.org/en/about/people/e/ergys-islamaj), [Duong Trung Le](https://sites.google.com/view/duongle/home), [Aaditya Mattoo](https://www.worldbank.org/en/about/people/a/aaditya-mattoo)).
 
-**Measuring Cross-Country Monetary Policy Uncertainty** (with [Jongrim Ha](https://www.jongrimha.com/), [Moontae Lee](https://business.uic.edu/profiles/lee-moontae/), [Bo Sun](https://sites.google.com/site/bosun09/home)).
-<!-- *We revamp newspaper-based uncertainty indices with large language models, applying them to a cross-country, multilingual corpus of historical monetary policy texts.* -->
-
 **Uncertainty, Exchange Rates and Monetary Policy Coordination** (with [Charles Engel](https://users.ssc.wisc.edu/~cengel/)).
 
-**The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). <!-- [Draft coming soon] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
+<!-- **The Excess Bond Premium and Monetary Policy Transmission in China** (with [Chenyu Mao](https://sites.google.com/view/chenyu-sophia-mao/home-page)). [Draft coming soon] *We build an SOE-adjusted EBP index for China and quantify its marginal effect on multi-dimensional PBoC shocks identified from distributional properties.* -->
 
 **Global and Local Uncertainties in Small Open Economies** (with [Shi Qiu](https://sites.google.com/view/shiqiu/home)). *Presented at MEG 2023, NASMES 2024, IAAE 2024, ESWC 2025, RISE 2026*. [[Slides](https://www.dropbox.com/scl/fi/690rsa9gvvnxmg567utid/global_and_local_uncertainty_slides.pdf?rlkey=ddz6o3kemf8017iaxhhkzcax6&st=e7htn42j&dl=0)] <!--  *Using natural disasters as instruments, we estimate the causal impact of domestic uncertainty across AEs and EMDEs.* -->
 
